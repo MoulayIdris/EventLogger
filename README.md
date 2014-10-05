@@ -13,5 +13,5 @@ This should be released around December 2014.
 
 Development Team
 ----------------
-* Event Lead: secretagentperry - RIP Idris ;_;
+* Event Lead: secretagentperry
 * Developer: dintendocoltd
