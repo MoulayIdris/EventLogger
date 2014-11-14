@@ -6,3 +6,4 @@ EventLogger Todo
 * Add some mockup design
 * Drink Lucozade
 * Send the mockup [DONE]
+* Cure Ebola
